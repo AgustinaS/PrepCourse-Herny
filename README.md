@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Este es un repositorio de prueba del modulo 2 del prepcourse de Herny
+Este es una prueba de como crear un repostorio y clonarlo desde github a mi pc
